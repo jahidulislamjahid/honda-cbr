@@ -1,3 +1,6 @@
+body{
+    font-family: 'Baloo Chettan 2', cursive;
+}
 .nav-bg{
     background-color:  #264653;
 }
@@ -13,6 +16,15 @@
 }
 .purchase-color{
     background-color: #cc9900;
+}
+.bgless-border{
+    background-color: white;
+    border-color:#cc9900;
+    color: #cc9900;
+}
+/* coloured text */
+.brown-text{
+    color: #803300;
 }
 /* grayscale color  */
 .grayscale-bike{
