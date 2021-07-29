@@ -30,6 +30,10 @@ body{
 .grayscale-bike{
     filter: grayscale(100%);
 }
+/* client section  */
+.star-color{
+    color: orange;
+}
 /* extra sectio  */
 .animate-text {
     position: relative;
@@ -54,6 +58,18 @@ body{
       background-position: 500%;
     }
   }
+.status{
+    text-align: center;
+    color: black;
+    padding: auto;
+    margin: auto;
+}
+#back-shadow{
+    margin-left: 10%;
+    margin-right: 10%;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px 5px  rgb(192, 192, 192);
+}
 /* footer-customisation */
 .footer-style{
     background-color: black;
