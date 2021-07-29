@@ -5,3 +5,27 @@
 .grayscale-bike{
     filter: grayscale(100%);
 }
+/* footer-text */
+.footer-text{
+    color: white;
+}
+.link-decoration{
+    text-decoration: none;
+    color: white;
+}
+footer li{
+    list-style-type: none;
+}
+.button-customization{
+    background-color: black;
+    color: white;
+    border-color: white;
+    border-radius: 15px;
+}
+.fab{
+    font-size: 46px;
+    color: white;
+}
+.button-text{
+    font-size: larger;
+}
