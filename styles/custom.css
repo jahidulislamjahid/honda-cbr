@@ -35,6 +35,16 @@ body{
     color: orange;
 }
 /* extra sectio  */
+.glass{
+	backdrop-filter: blur(15px);
+	background-color: rgba(255, 255, 255, 0.1);
+	border-radius: 1rem;
+}
+.glass-img{
+    background-image: url(../images/glass.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 .animate-text {
     position: relative;
     font-family: 'Baloo Chettan 2';
