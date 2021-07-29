@@ -1,3 +1,7 @@
 .top-bg-color{
     background-color: aqua;
 }
+/* grayscale color  */
+.grayscale-bike{
+    filter: grayscale(100%);
+}
