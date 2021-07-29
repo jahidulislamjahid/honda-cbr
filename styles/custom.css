@@ -1,11 +1,27 @@
+.nav-bg{
+    background-color:  #264653;
+}
+.nav-text{
+    color: white;
+    font-weight: 500;
+}
 .top-bg-color{
-    background-color: aqua;
+    background-color:  #264653;
+}
+.gray-text{
+    color: rgba(245, 242, 235, 0.692);
+}
+.purchase-color{
+    background-color: #cc9900;
 }
 /* grayscale color  */
 .grayscale-bike{
     filter: grayscale(100%);
 }
-/* footer-text */
+/* footer-customisation */
+.footer-style{
+    background-color: black;
+}
 .footer-text{
     color: white;
 }
